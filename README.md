@@ -1,4 +1,4 @@
-### Hi there, I'm Bilal Raza 👋
+### Hey 👋
 
 
 ### 🛠️ Technologies & Tools
