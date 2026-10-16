@@ -1,8 +1,5 @@
 ### Hi there, I'm Bilal Raza 👋
 
-I am a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies.
-
----
 
 ### 🛠️ Technologies & Tools
 
@@ -11,27 +8,6 @@ I am a passionate software developer with a keen interest in web development, op
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Cloud**: AWS, Azure, GCP
 - **Tools**: Git, Docker, Kubernetes, Jenkins
-
----
-
-### 📫 How to Reach Me
-
-- Email: devbilalraza@gmail.com
-- LinkedIn: [Bilal Raza](https://www.linkedin.com/in/dev-bilal-raza/)
-
----
-
-### 💬 Ask Me About
-
-- Web development
-- Open-source projects
-- Best coding practices
-
----
-
-### ⚡ Fun Fact
-
-I love hiking and exploring new places in my free time. 🏞️
 
 ---
 
